@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @GeorgesCarmo
-- 👀 HTML/CSS, JAVASCRIPT, PHP, JAVA, SQL, API REST, MICROSERVICES...
+- 👀 JAVA, DOCKER, API REST,  SQL/NOSQL, MICROSERVICES...
 - 🌱 Atualmente estou estudando Estrutura de dados em java e SQL
 - 💞️ Eu quero colaborar com outros entusiastas da linguagem Java
 - 📫 Como chegar até mim -> E-mail: georgesdc13@gmail.com
