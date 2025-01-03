@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">☕ Desenvolvedor Backend<br>📚 Cursando Eng. Software<br>📫 georgesdc13@gmail.com</p>
+<p align="left">☕ Desenvolvedor Backend - Java/Spring - TypeScript/NodeJs<br>📚 Cursando Eng. Software<br>📫 georgesdc13@gmail.com</p>
 
 ###
 
